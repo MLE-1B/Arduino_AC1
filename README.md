@@ -47,11 +47,9 @@ ________________________________________________________________________________
 ### GRUPO:
 - **André Pierro:** Reponsável por atualizar o READ.ME, colocando os integrantes do grupo e os objetivos do trabalho. Tenho 14 anos, e gosto muito de praticar esportes e jogar com meus amigos.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/eu.jpeg)
-- **Gabriel Valente:** 
-![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121101.png)
-- **Gabriel Santoro:** 
+- **Gabriel Valente:**
+- **Gabriel Santoro:** Meu nome é Gabriel Santoro, tenho 15 anos, gosto de jogar futebole e jogar videogame. Minha comida favorita é comida japonesa. Gosto muito de futebol, tanto de jogar quanto assistir, e torço pro Santos. No projeto, sou um dos responsáveis por achar e ajustar os erros do código.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-31%20at%2012.06.03.jpeg)
-- **Murilo Cardoso:** Responsável por colocar um botão para ligar e outro para desligar a produção indicados pelo led vermelho. Eu tenho 14 anos, jogo muito videogame e  também futebol, minha comida favorita é macarrão.
-![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121448.png)
+- **Murilo Cardoso:** 
+![](https://github.com/MLE-1B/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-10%20at%2016.05.22.jpeg)
 - **Vinícius Greco:**
-![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121310.png)
