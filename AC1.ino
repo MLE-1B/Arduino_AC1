@@ -18,3 +18,9 @@ void setup()
   pinMode(vermelho, OUTPUT);
   pinMode(verde, OUTPUT);
   pinMode(azul, OUTPUT);
+   
+  Serial.begin(9600);
+//nome do nosso grupo
+  Serial.println("AC1 - Meu Primeiro Projeto 2021");
+  Serial.println("                           V1.0");
+  Serial.println("Grupo:MLE");
