@@ -47,12 +47,16 @@ ________________________________________________________________________________
 ### GRUPO:
 - **André Pierro:** Reponsável por atualizar o READ.ME, colocando os integrantes do grupo e os objetivos do trabalho. Tenho 14 anos, e gosto muito de praticar esportes e jogar com meus amigos. Sou palmeirense e jogo como goleiro.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/eu.jpeg)
+________________________________________________________________________________________________________________
 - **Gabriel Valente:** Responsável por fazer as coisasa do led azul. Tenho 14 anos, gosto de praticar esportes, principalmente futebol. Gosto também de jogar video game e mexer no celular.MInha comida preferida é macarrão, mas como de tudo. Sou extrovertido e gosto de fazer os outros rirem.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121101.png)
+________________________________________________________________________________________________________________
 - **Gabriel Santoro:** Tenho 15 anos, gosto muito de praticar esportes e jogar videogame. Minha comida preferida é comida japonesa, gosto muito tanto de jogar, quanto assistir futebol, e torço pro Santos. Sou um dos responsáveis por achar e ajustar os erros do código.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-31%20at%2012.06.03.jpeg)
+________________________________________________________________________________________________________________
 - **Murilo Cardoso:** Responsável por progamar um botão para ligar e outro para desligar a produção indicados pelo led vermelho. Eu tenho 14 anos, jogo muito videogame e  também futebol, minha comida favorita é macarrão, jogo R6 e torço pro corinthians.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121448.png)
+________________________________________________________________________________________________________________
 - **Vinícius Greco:** Responsável por fazer o circuito do Tinkercad e atualizar ele aqui no Github. Tenho 14 anos, gosto de jogar R6 e xadrez.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121310.png)
 
