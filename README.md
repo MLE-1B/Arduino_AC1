@@ -45,7 +45,7 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 ________________________________________________________________________________________________________________
 
 ### GRUPO:
-- **André Pierro:** Reponsável por atualizar o READ.ME, colocando os integrantes do grupo e os objetivos do trabalho. Tenho 14 anos, e gosto muito de praticar esportes e jogar com meus amigos.
+- **André Pierro:** Reponsável por atualizar o READ.ME, colocando os integrantes do grupo e os objetivos do trabalho. Tenho 14 anos, e gosto muito de praticar esportes e jogar com meus amigos. Sou palmeirense e jogo como goleiro.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/eu.jpeg)
 - **Gabriel Valente:** Responsável por fazer as coisasa do led azul. Tenho 14 anos, gosto de praticar esportes, principalmente futebol. Gosto também de jogar video game e mexer no celular.MInha comida preferida é macarrão, mas como de tudo. Sou extrovertido e gosto de fazer os outros rirem.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121101.png)
