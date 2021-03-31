@@ -24,3 +24,17 @@ void setup()
   Serial.println("AC1 - Meu Primeiro Projeto 2021");
   Serial.println("                           V1.0");
   Serial.println("Grupo:MLE");
+}
+//acender e apagar o led vermelho
+void loop()
+{
+  if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
+      Serial.println("botao 1 apertado");
+    ledVermelho(true);
+      lastDebounceTime1 = millis();
+  }
+  if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao2)){
+      Serial.println("botao 2 apertado");
+   ledVermelho(false);
+      lastDebounceTime2 = millis();
+  }
