@@ -58,3 +58,6 @@ void loop()
 
   delay(10);
 }
+void ledVermelho(bool estado){
+ digitalWrite(vermelho,estado);
+}
