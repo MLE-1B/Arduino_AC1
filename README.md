@@ -48,6 +48,6 @@ ________________________________________________________________________________
 - **André Pierro:** Reponsável por atualizar o READ.ME, colocando os integrantes do grupo e os objetivos do trabalho. Tenho 14 anos, e gosto muito de praticar esportes e jogar com meus amigos.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/eu.jpeg)
 - **Gabriel Valente:**
-- **Gabriel Santoro:**
+- **Gabriel Santoro:** 
 - **Murilo Cardoso:** 
 - **Vinícius Greco:**
