@@ -49,6 +49,7 @@ ________________________________________________________________________________
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/eu.jpeg)
 - **Gabriel Valente:**
 - **Gabriel Santoro:** 
+![](https://github.com/MLE-1B/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-31%20at%2012.06.03.jpeg)
 - **Murilo Cardoso:** 
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-10%20at%2016.05.22.jpeg)
 - **Vinícius Greco:**
