@@ -51,8 +51,7 @@ ________________________________________________________________________________
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121101.png)
 - **Gabriel Santoro:** 
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-31%20at%2012.06.03.jpeg)
-- **Murilo Cardoso:** Responsável por colocar um botão para ligar e outro para desligar a produção indicados pelo led vermelho. Eu tenho 14 anos, jogo muito videogame e  também futebol, minha comida favorita é macarrão, minha matéria favorita é matemática e os jogos que eu jogo são R6 e Fortnite.
-
+- **Murilo Cardoso:** Responsável por colocar um botão para ligar e outro para desligar a produção indicados pelo led vermelho. Eu tenho 14 anos, jogo muito videogame e  também futebol, minha comida favorita é macarrão.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121448.png)
-- **Vinícius Greco:**
+- **Vinícius Greco:** Responsável por montar o Tinkercad e atualizar a foto aqui no Github. Eu tenho 14 anos, gosto de jogar R6 e xadrez.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121310.png)
