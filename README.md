@@ -21,11 +21,11 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 - Leitura do sensor de luminosidade e teste, ao indicar um valor acima de **5** a luminosidade do ambiente esta muito alta, deve ser informado via serial e o led verde deve permanecer aceso até a luminosidade diminuir.
 
 ### Composição da nota do grupo
-- Ajuste dos erros no código principal.
-- Documentação do projeto do github no README.md abordando todos os pontos necessários.
-- No README.md adicionando nome do grupo fotos e short bio de cada integrante.
-- Todos os pontos do código devem estar comentados corretamente informando o que se passa ali.
-- Usar do Serial o max possível, sempre informando os estados da produção e demais itens.
+• Ajuste dos erros no código principal.
+• Documentação do projeto do github no README.md abordando todos os pontos necessários.
+• No README.md adicionando nome do grupo fotos e short bio de cada integrante.
+• Todos os pontos do código devem estar comentados corretamente informando o que se passa ali.
+• Usar do Serial o max possível, sempre informando os estados da produção e demais itens.
 - Implementação das funcionalidades faltantes.
 
 ### Desconto de nota individual
