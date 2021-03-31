@@ -45,5 +45,8 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 
 
 ### GRUPO:
-- **André Pierro:** Reponsável por atualizar o READ.ME, colocando os integrantes do grupo e os objetivos do trabalho.
- -- Tenho 14 anos, e gosto muito de praticar esportes e jogar com meus amigos.
+- **André Pierro:** Reponsável por atualizar o READ.ME, colocando os integrantes do grupo e os objetivos do trabalho. Tenho 14 anos, e gosto muito de praticar esportes e jogar com meus amigos.
+- **Gabriel Valente:**
+- **Gabriel Santoro:**
+- **Murilo Cardoso:**
+- **Vinícius Greco:**
