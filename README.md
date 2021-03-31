@@ -49,5 +49,5 @@ ________________________________________________________________________________
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/eu.jpeg)
 - **Gabriel Valente:**
 - **Gabriel Santoro:**
-- **Murilo Cardoso:**
+- **Murilo Cardoso:** 
 - **Vinícius Greco:**
