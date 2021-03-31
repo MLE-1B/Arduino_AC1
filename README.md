@@ -55,3 +55,8 @@ ________________________________________________________________________________
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121448.png)
 - **Vinícius Greco:** Responsável por fazer o circuito do Tinkercad e atualizar ele aqui no Github. Tenho 14 anos, gosto de jogar R6 e xadrez.
 ![](https://github.com/MLE-1B/Arduino_AC1/blob/main/imagem_2021-03-31_121310.png)
+
+__________________________________________________________________________________________________________________
+
+### DOCUMENTAÇÃO DO PROJETO:
+- Corrigir erros no código
