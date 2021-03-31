@@ -40,3 +40,8 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
+
+### GRUPO:
+- **André Pierro:** Reponsável por atualizar o READ.ME, colocando os integrantes do grupo e os objetivos do trabalho.
+ - Tenho 14 anos, e gosto muito de praticar esportes e jogar com meus amigos.
