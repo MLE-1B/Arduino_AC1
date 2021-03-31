@@ -50,5 +50,5 @@ ________________________________________________________________________________
 - **Gabriel Valente:**
 - **Gabriel Santoro:** 
 - **Murilo Cardoso:** 
-![]()
+![](https://github.com/MLE-1B/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-10%20at%2016.05.22.jpeg)
 - **Vinícius Greco:**
