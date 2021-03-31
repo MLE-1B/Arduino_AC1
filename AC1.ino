@@ -38,3 +38,11 @@ void loop()
    ledVermelho(false);
       lastDebounceTime2 = millis();
   }
+ //verificador de tempetura
+  if(getTemperatura() > 30){
+    ledAzul(true);
+    Serial.println ("Temperatura acima da temperatura ideal");
+  }else{
+      ledAzul(false); 
+  Serial.println ("Temperatura ok");
+ }
