@@ -63,9 +63,9 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 
 ### DOCUMENTAÇÃO DO PROJETO:
-• Corrigir erros no código
-• Documentação do projeto no READ.ME
-• Adicionar fotos, descrição e nome dos integrantes no READ.ME
-• Comentar o que se passa em cada ponto do código
-• Usar o cereal o máximo possível, informando os estados da produção
-• Implementar as funcionalidades restantes.
+- Corrigir erros no código
+- Documentação do projeto no READ.ME
+- Adicionar fotos, descrição e nome dos integrantes no READ.ME
+- Comentar o que se passa em cada ponto do código
+- Usar o cereal o máximo possível, informando os estados da produção
+- Implementar as funcionalidades restantes.
